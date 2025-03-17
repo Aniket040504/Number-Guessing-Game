@@ -18,7 +18,7 @@ If you guess the answer in a single attempt:
 In case you are not able to guess in one attempt, you can try playing the game again:  
 ![Multiple Attempts](https://github.com/user-attachments/assets/837ea33c-3f1a-4635-91aa-1cc0c0dc5f96)
 
-Complete Demo while playing the game:
+
 ![Complete demo](https://github.com/user-attachments/assets/7d4c0ab2-50f5-4b50-9709-832effc00225)
 
 
