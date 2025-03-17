@@ -21,12 +21,11 @@ public class Main {
             + " attempts per round to guess the correct number.");
 
         while (!guessedCorrectly) {
-            
-            // Give the user K attempts per round
+           
             for (int i = 0; i < K; i++) {
                 System.out.print("Enter your guess: ");
                 int guess = sc.nextInt();
-                attempts++; // Increment attempt count
+                attempts++; 
 
                 if (guess == number) {
                     System.out.println(
@@ -47,9 +46,7 @@ public class Main {
             }
 
             if (!guessedCorrectly) {
-                
-                // Ask the user if they want to continue
-                // after exhausting K attempts
+               
                 System.out.println("You have used all " + K
                                    + " attempts.");
                 System.out.print(
